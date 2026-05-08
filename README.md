@@ -16,6 +16,7 @@ https://mumei-xxxx.github.io/
 ## Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- May 8 [仏教アビダンマの四相分析をClaude Code / Codex CLIのSkillにした](https://zenn.dev/purenium/articles/2026_05_08_lakkhanadi-catukka-analyzer)
 - Oct 4 [オブジェクト指向無本質論【後期ウィトゲンシュタイン/家族的類似性】―「本当のオブジェクト指向」はない](https://zenn.dev/purenium/articles/2025_10_04_object-oriented-family-resemblance)
 - Nov 1 [いかにして『型』は人を救うか。【ウィトゲンシュタイン / 千葉雅也】](https://zenn.dev/purenium/articles/2024_11_01_how_type_systems_can_save_humans)
 - Oct 31 [テストとは《写像》である～なぜ自動テストが書けないのか～](https://zenn.dev/purenium/articles/2024_11_31_test_is_a_mapping)
@@ -25,7 +26,6 @@ https://mumei-xxxx.github.io/
 - Dec 25 [魔理沙「PureScript Jelly で、Reactチュートリアル三目並べの《純粋関数型／型安全》版を作るぜ」②](https://zenn.dev/purenium/articles/purescript-jelly-tic-tac-toe-02)
 - Dec 24 [魔理沙「PureScript Jelly で、Reactチュートリアル三目並べの《純粋関数型／型安全》版を作るぜ」①](https://zenn.dev/purenium/articles/purescript-jelly-tic-tac-toe-01-calculatewinner)
 - Oct 19 [【PureScript】spago が v0.15.0 から esbuild を使うようになっていた。](https://zenn.dev/purenium/articles/purescript-spago-use-esbuild-as-bundler)
-- Sep 26 [【二次創作】学習の中動態的悦び #サロメ百万展](https://zenn.dev/purenium/articles/1000000lome-yasutomi-rongo-aspect-middle-voice)
 <!-- profile updater end: zenn -->
 
 <br>
